@@ -230,7 +230,7 @@ body {
   .rating-testimonials {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    min-height: 26vh;
+    height: 24rem;
   }
 
   .testimonial-comment {

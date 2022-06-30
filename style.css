@@ -150,7 +150,7 @@ body {
 }
 
 /* ? RESPONSIVENESS  */
-@media (min-width: 1000px) {
+@media (min-width: 62.5em) {
   /* ? BACKGROUND IMG  */
   .top-mobile-img,
   .bottom-mobile-img {
